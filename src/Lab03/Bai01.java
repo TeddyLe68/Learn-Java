@@ -1,6 +1,5 @@
 package Lab03;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Bai01 {
@@ -28,7 +27,8 @@ public class Bai01 {
         }else {
             System.out.printf("%d là số nguyên tố!",number);
         }
-
+        sc.close();
     }
+
 }
 

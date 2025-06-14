@@ -26,6 +26,6 @@ public class Bai03 {
         System.out.print('\n');
         System.out.print("The min number in the array is: "+ Math.min(a[0], a[size-1]));
 
-
+        sc.close();
     }
 }

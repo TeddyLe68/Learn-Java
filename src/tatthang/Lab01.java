@@ -15,5 +15,6 @@ public class Lab01 {
         int avg = scanner.nextInt();
 
         System.out.println(name + " có điểm "+ avg + "/"+maxScore);
+        scanner.close();
     }
 }

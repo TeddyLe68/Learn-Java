@@ -32,5 +32,6 @@ public class Bai01 {
 
         System.out.println("List: " + list.toString());
         System.out.println("Sum: " + sum);
+        scan.close();
     }
 }

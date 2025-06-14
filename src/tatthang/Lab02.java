@@ -24,5 +24,6 @@ public class Lab02 {
         System.out.println("Chu vi hinh chu nhat: "+ chuvi);
         System.out.println("Dien tich hinh chu nhat: "+ dientich);
         System.out.println("Canh nho nhat cua hinh chu nhat: "+ canhnhonhat);
+        scanner.close();
     }
 }

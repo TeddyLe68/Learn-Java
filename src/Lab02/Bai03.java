@@ -21,5 +21,6 @@ public class Bai03 {
             int tien = money + (a - 100) * 1500;
             System.out.println("Tien dien la: " + tien);
         }
+        scan.close();
     }
 }

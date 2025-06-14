@@ -64,5 +64,6 @@ public class Bai04 {
 
 
         }
+        scan.close();
     }
 }
