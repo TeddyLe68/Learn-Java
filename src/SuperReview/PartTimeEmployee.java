@@ -14,7 +14,7 @@ public class PartTimeEmployee extends Employeee {
     void tinhLuong() {
 
     }
-
+    
     @Override
     public void showInfo() {
         super.showInfo();
